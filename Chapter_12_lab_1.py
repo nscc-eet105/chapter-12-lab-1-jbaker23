@@ -1,3 +1,4 @@
+#My name is Jacob Baker and this is Chapter 12 Lab 1 which I revised on July 14
 def state_capital_game():
     # Dictionary of states and capitals
     state_capitals = {
